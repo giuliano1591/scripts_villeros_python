@@ -1,0 +1,1 @@
+C:\Users\givalent\Desktop\python\csv2excel>python csvExcelv2.py Plantilla_Sirce_Rep_V1_20220513_3.csv Plantilla_Sirce_Rep_V1_20220513_3.xlsx
